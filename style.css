@@ -1,0 +1,71 @@
+.container{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+.section-one{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 6px 0px 6px 0px;
+    margin-top: 0px;
+}
+
+.section-one__title{
+    font-size: 30px;
+}
+.section-one__desc{
+   color: grey;
+}
+
+.section-two{
+    margin: 15px 0px 15px 0px;
+    text-align: center;
+
+}
+
+.section-two__card{
+    border: 2px solid black;
+    display: inline-block;
+    padding: 0px;
+    text-align: center;
+}
+.section-two__image{
+    height: 300px;
+    width:250px;
+}
+.section-two__title{
+    font-weight: bold;
+}
+
+.section-two__button{
+    background-color: black;
+    color: white;
+    padding:5px 0px 5px 0px;
+}
+
+.section-three{
+    background: black;
+    color: white;
+    text-align: center;
+}
+
+.section-three__table{
+    padding-left: 540px;
+}
+
+.section-three__button{
+background-color: yellow;
+width: 400px;
+margin-bottom: 15px;
+}
+
+.section-three__title{
+    margin-bottom: 0px;
+    padding-top: 13px;
+}
